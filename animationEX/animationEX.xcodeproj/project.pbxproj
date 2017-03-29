@@ -14,6 +14,7 @@
 		BA19C2C61E8B533D007BF5BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA19C2C41E8B533D007BF5BE /* LaunchScreen.storyboard */; };
 		BA19C2D11E8B533D007BF5BE /* animationEXTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA19C2D01E8B533D007BF5BE /* animationEXTests.swift */; };
 		BA19C2DC1E8B533D007BF5BE /* animationEXUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA19C2DB1E8B533D007BF5BE /* animationEXUITests.swift */; };
+		BAD552081E8B5E6800EC0112 /* PositonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD552071E8B5E6800EC0112 /* PositonViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BA19C2D71E8B533D007BF5BE /* animationEXUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = animationEXUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA19C2DB1E8B533D007BF5BE /* animationEXUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animationEXUITests.swift; sourceTree = "<group>"; };
 		BA19C2DD1E8B533D007BF5BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAD552071E8B5E6800EC0112 /* PositonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PositonViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				BA19C2BB1E8B533D007BF5BE /* AppDelegate.swift */,
 				BA19C2BD1E8B533D007BF5BE /* ViewController.swift */,
+				BAD552071E8B5E6800EC0112 /* PositonViewController.swift */,
 				BA19C2BF1E8B533D007BF5BE /* Main.storyboard */,
 				BA19C2C21E8B533D007BF5BE /* Assets.xcassets */,
 				BA19C2C41E8B533D007BF5BE /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA19C2BE1E8B533D007BF5BE /* ViewController.swift in Sources */,
+				BAD552081E8B5E6800EC0112 /* PositonViewController.swift in Sources */,
 				BA19C2BC1E8B533D007BF5BE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -503,6 +507,7 @@
 				BA19C2E21E8B533D007BF5BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA19C2E31E8B533D007BF5BE /* Build configuration list for PBXNativeTarget "animationEXTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +516,7 @@
 				BA19C2E51E8B533D007BF5BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA19C2E61E8B533D007BF5BE /* Build configuration list for PBXNativeTarget "animationEXUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +525,7 @@
 				BA19C2E81E8B533D007BF5BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
