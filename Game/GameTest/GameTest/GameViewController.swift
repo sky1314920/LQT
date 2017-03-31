@@ -1,8 +1,8 @@
 //
 //  GameViewController.swift
-//  GameTest
+//  Gametest
 //
-//  Created by panda on 2017/03/29.
+//  Created by panda on 2017/03/30.
 //  Copyright © 2017年 LQT. All rights reserved.
 //
 
@@ -12,7 +12,6 @@ import GameplayKit
 
 class GameViewController: UIViewController {
 
-    @IBOutlet weak var plane: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -31,7 +30,6 @@ class GameViewController: UIViewController {
             view.showsFPS = true
             view.showsNodeCount = true
         }
-        
     }
 
     override var shouldAutorotate: Bool {
@@ -54,5 +52,4 @@ class GameViewController: UIViewController {
     override var prefersStatusBarHidden: Bool {
         return true
     }
-    
 }

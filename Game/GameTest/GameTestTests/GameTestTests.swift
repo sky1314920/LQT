@@ -1,15 +1,15 @@
 //
-//  GameTestTests.swift
-//  GameTestTests
+//  GametestTests.swift
+//  GametestTests
 //
-//  Created by panda on 2017/03/29.
+//  Created by panda on 2017/03/30.
 //  Copyright © 2017年 LQT. All rights reserved.
 //
 
 import XCTest
-@testable import GameTest
+@testable import Gametest
 
-class GameTestTests: XCTestCase {
+class GametestTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

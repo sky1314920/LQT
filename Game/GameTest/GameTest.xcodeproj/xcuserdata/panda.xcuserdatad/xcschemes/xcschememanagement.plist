@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>GameTest.xcscheme</key>
+		<key>Gametest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>BAD552111E8B6FFD00EC0112</key>
+		<key>BAD552B11E8CCF2100EC0112</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>BAD5522B1E8B6FFD00EC0112</key>
+		<key>BAD552CB1E8CCF2100EC0112</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>BAD552361E8B6FFE00EC0112</key>
+		<key>BAD552D61E8CCF2100EC0112</key>
 		<dict>
 			<key>primary</key>
 			<true/>

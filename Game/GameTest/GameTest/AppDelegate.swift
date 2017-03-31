@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  GameTest
+//  Gametest
 //
-//  Created by panda on 2017/03/29.
+//  Created by panda on 2017/03/30.
 //  Copyright © 2017年 LQT. All rights reserved.
 //
 

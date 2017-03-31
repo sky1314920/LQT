@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BAD552111E8B6FFD00EC0112"
-               BuildableName = "GameTest.app"
-               BlueprintName = "GameTest"
-               ReferencedContainer = "container:GameTest.xcodeproj">
+               BlueprintIdentifier = "BAD552B11E8CCF2100EC0112"
+               BuildableName = "Gametest.app"
+               BlueprintName = "Gametest"
+               ReferencedContainer = "container:Gametest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BAD5522B1E8B6FFD00EC0112"
-               BuildableName = "GameTestTests.xctest"
-               BlueprintName = "GameTestTests"
-               ReferencedContainer = "container:GameTest.xcodeproj">
+               BlueprintIdentifier = "BAD552CB1E8CCF2100EC0112"
+               BuildableName = "GametestTests.xctest"
+               BlueprintName = "GametestTests"
+               ReferencedContainer = "container:Gametest.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BAD552361E8B6FFE00EC0112"
-               BuildableName = "GameTestUITests.xctest"
-               BlueprintName = "GameTestUITests"
-               ReferencedContainer = "container:GameTest.xcodeproj">
+               BlueprintIdentifier = "BAD552D61E8CCF2100EC0112"
+               BuildableName = "GametestUITests.xctest"
+               BlueprintName = "GametestUITests"
+               ReferencedContainer = "container:Gametest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BAD552111E8B6FFD00EC0112"
-            BuildableName = "GameTest.app"
-            BlueprintName = "GameTest"
-            ReferencedContainer = "container:GameTest.xcodeproj">
+            BlueprintIdentifier = "BAD552B11E8CCF2100EC0112"
+            BuildableName = "Gametest.app"
+            BlueprintName = "Gametest"
+            ReferencedContainer = "container:Gametest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BAD552111E8B6FFD00EC0112"
-            BuildableName = "GameTest.app"
-            BlueprintName = "GameTest"
-            ReferencedContainer = "container:GameTest.xcodeproj">
+            BlueprintIdentifier = "BAD552B11E8CCF2100EC0112"
+            BuildableName = "Gametest.app"
+            BlueprintName = "Gametest"
+            ReferencedContainer = "container:Gametest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BAD552111E8B6FFD00EC0112"
-            BuildableName = "GameTest.app"
-            BlueprintName = "GameTest"
-            ReferencedContainer = "container:GameTest.xcodeproj">
+            BlueprintIdentifier = "BAD552B11E8CCF2100EC0112"
+            BuildableName = "Gametest.app"
+            BlueprintName = "Gametest"
+            ReferencedContainer = "container:Gametest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
